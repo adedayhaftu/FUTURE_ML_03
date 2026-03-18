@@ -1,4 +1,4 @@
-# FUTURE-_ML_03
+# FUTURE_ML_03
 # AI Resume Screening System
 
 Screens **40K+ resumes** using Machine Learning!
