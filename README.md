@@ -6,7 +6,6 @@ Screens **40K+ resumes** using Machine Learning!
 **Results:** Processed 200 resumes → Found 3 ML-skilled candidates in top 5!
 
 ## Live Results
-
 ### Top 10 Candidate Scores
 ![Top 10 Bar Chart](top10_bar_chart.png)
 
