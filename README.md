@@ -6,6 +6,13 @@ Screens **40K+ resumes** using Machine Learning!
 **Results:** Processed 200 resumes → Found 3 ML-skilled candidates in top 5!
 
 ## Live Results
+
+### Top 10 Candidate Scores
+![Top 10 Bar Chart](top10_bar_chart.png)
+
+### Skills vs Candidates Heatmap
+![Skills Heatmap](skills_heatmap.png)
+
 Data Analyst Screening (Top 5):
 ✅C1: Score 0.060 - No skills detected
 ✅C4: Score 0.054 - scikit-learn + visualization 
