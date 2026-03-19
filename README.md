@@ -36,13 +36,10 @@ Data Analyst Screening (Top 5):
 
 
 ## How It Works
-Load 40K resumes → Clean text (NLTK)
-
-Extract skills → Match to job description
-
-TF-IDF scoring → Rank by relevance
-
-Show top candidates + missing skills
+✅Load 40K resumes → Clean text (NLTK)
+✅Extract skills → Match to job description
+✅TF-IDF scoring → Rank by relevance
+✅Show top candidates + missing skills
 
 
 ## Tech Stack
